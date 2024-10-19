@@ -1,0 +1,12 @@
+{
+  "UniqueName": "MorePartySlotsRT",
+  "Version": "1.0.0",
+  "DisplayName": "MorePartySlots",
+  "Description": "MorePartySlots",
+  "Author": "",
+  "ImageName": "Thumbnail.jpg",
+  "WorkshopId": "",
+  "HomePage": "https://raw.githubusercontent.com/xADDBx/MorePartySlotsRT/master/Repository.json",
+  "Repository": "https://github.com/xADDBx/MorePartySlotsRT",
+  "Dependencies": []
+}

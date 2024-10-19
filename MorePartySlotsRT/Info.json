@@ -1,0 +1,13 @@
+﻿{
+  "Id": "MorePartySlotsRT",
+  "DisplayName": "MorePartySlots",
+  "Author": "ADDB",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.25.0",
+  "Requirements": [],
+  "LoadAfter": [ "PlayableX" ],
+  "AssemblyName": "MorePartySlotsRT.dll",
+  "EntryMethod": "MorePartySlotsRT.Main.Load",
+  "HomePage": "https://raw.githubusercontent.com/xADDBx/MorePartySlotsRT/master/Repository.json",
+  "Repository": "https://github.com/xADDBx/MorePartySlotsRT"
+}
